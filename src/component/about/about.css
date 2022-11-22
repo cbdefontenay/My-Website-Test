@@ -1,0 +1,28 @@
+.aboutMe{
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+    background: linear-gradient(to right, #75a3a3, #3d5c5c);
+    opacity: 0.8;
+    margin-top: 100px;
+}    
+
+.myText{
+    color: antiquewhite;
+    margin: 30px;
+    padding-right: 40px;
+    opacity: 1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+.me{
+    margin: 30px;
+    border-radius: 20px;
+}
+
+.aboutMe:hover {
+    opacity: 1;
+    text-shadow: 2px 2px green;
+}

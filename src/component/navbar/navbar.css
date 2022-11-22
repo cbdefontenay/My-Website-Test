@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: linear-gradient(to right, #75a3a3, #3d5c5c);
+    align-items: flex-end;
+    margin-top: 0;
+    padding: 1em;
+}
+
+a{
+    list-style: none;
+    text-decoration: none;
+    color: #e6f0ff;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+}
