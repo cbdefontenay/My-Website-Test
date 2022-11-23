@@ -1,6 +1,8 @@
 .aboutMe{
     display: flex;
     flex-direction: row;
+    padding-top: 50px;
+    padding-bottom: 50px;
     gap: 2em;
     background: linear-gradient(to right, #75a3a3, #3d5c5c);
     opacity: 0.8;

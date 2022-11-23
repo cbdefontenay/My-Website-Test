@@ -3,6 +3,8 @@
     flex-direction: row;
     justify-content: flex-end;
     gap: 2em;
+    padding-top: 50px;
+    padding-bottom: 50px;
     background: linear-gradient(to right, #75a3a3, #3d5c5c);
     color: antiquewhite;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
